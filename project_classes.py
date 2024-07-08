@@ -7,10 +7,6 @@ This module contains classes that will be used to create and analyse student dat
 Copyright and Usage Information
 ===============================
 
-This file is provided solely for marking. All forms of
-distribution of this code, whether as given or with any changes, are
-expressly prohibited.
-
 This file is Copyright (c) 2024 David Wang
 """
 from __future__ import annotations
