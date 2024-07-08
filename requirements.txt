@@ -1,4 +1,4 @@
-# CSC111 Project 2 Requirements - David Wang
+# Project Requirements - David Wang
 
 # Testing and code checking
 hypothesis
