@@ -1,0 +1,10 @@
+# CSC111 Project 2 Requirements - David Wang
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=2.7.0
+
+# Graphics and data visualization
+pandas==2.2.1
+plotly>=5.18.0
