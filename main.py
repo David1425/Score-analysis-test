@@ -7,10 +7,6 @@ This module is the main file that will run all the analysis and testing.
 Copyright and Usage Information
 ===============================
 
-This file is provided solely for marking. All forms of
-distribution of this code, whether as given or with any changes, are
-expressly prohibited.
-
 This file is Copyright (c) 2024 David Wang
 """
 from project_functions import (load_students_tree, load_students,
