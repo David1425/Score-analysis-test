@@ -7,10 +7,6 @@ This module contains functions that will be used in main.py.
 Copyright and Usage Information
 ===============================
 
-This file is provided solely for marking. All forms of
-distribution of this code, whether as given or with any changes, are
-expressly prohibited.
-
 This file is Copyright (c) 2024 David Wang
 """
 import csv
